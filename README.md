@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m currently working on:<br>Beginner-level projects to improve my coding and problem-solving skills.<br>👯 I’m looking to collaborate on:<br>Open-source projects and beginner-friendly team projects.<br>🤝 I’m looking for help with:<br>Best practices, real-world project ideas, and improving my development skills.<br>🌱 I’m currently learning:<br>Core programming concepts, web development basics, and tools like Git & GitHub.<br>💬 Ask me about:<br>Basics of programming, my learning journey, and beginner projects.<br>⚡ Fun fact:<br>I love learning something new every day and turning ideas into code.
-
+ Java Full Stack Develeper 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patilrajvardhan420@gmail.com) 
